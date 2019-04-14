@@ -1,17 +1,12 @@
 # Teaching Data Science
-LaTeX course notes for Python, Machine Learning, Deep Learning, Natural Language Processing, etc.
-Copyright (C) 2019 Yogesh H Kulkarni
+LaTeX course notes for Python, Machine Learning, Deep Learning, Natural Language Processing, etc. Core content is in the form for Beamer slides, which in turn can get compiled into presentation mode as well as two-column course notes mode.
 
-## License:
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or any later version.
+Jupyter notebooks kept here are collected from various sources (they are hardly written by me).
+
+Copyright (C) 2019 Yogesh H Kulkarni
 
 ## Requirements:
 * LaTeX (tested with MikTex 2.9 on Windows 7, 64bit)
-
-## Dependencies:
 * Need to install LaTeX packages, as and when you get such warning/suggestions.
 
 ## How to Run:
