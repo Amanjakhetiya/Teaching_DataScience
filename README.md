@@ -1,8 +1,6 @@
 # Teaching Data Science
 LaTeX course notes for Python, Machine Learning, Deep Learning, Natural Language Processing, etc. Core content is in the form for Beamer slides, which in turn can get compiled into presentation mode as well as two-column course notes mode.
 
-Jupyter notebooks kept here are collected from various sources (they are hardly written by me) and are to be used for live-demo purpose in conjunction with the teaching from LaTeX notes.
-
 Copyright (C) 2019 Yogesh H Kulkarni
 
 ## Requirements:
